@@ -9,6 +9,8 @@ public class Main {
         // initialize GUI
             //new GUI();
 
+        // THIS IS TEST COD EBRAHNCH DELTEM E
+
         // Choose mode
         int difficulty = chooseMode();
 
