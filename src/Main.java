@@ -7,7 +7,7 @@ public class Main {
                            "-----------------------------------");
 
         // initialize GUI
-        new GUI();
+            //new GUI();
 
         // Choose mode
         int difficulty = chooseMode();
@@ -76,7 +76,7 @@ public class Main {
                     for (char c: row) {
                         System.out.print(c);
                     }
-                    System.out.println("");
+                    System.out.print("\n");
                 }
                 break;
             }
